@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\MyJava"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "java",
+				"name": "Launch Current File",
+				"request": "launch",
+				"mainClass": "${file}"
+			},
+			{
+				"type": "java",
+				"name": "Launch Recurse",
+				"request": "launch",
+				"mainClass": "Recurse",
+				"projectName": "New folder_8f0579de"
+			}
+		]
+	}
+}
